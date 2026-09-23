@@ -1,7 +1,37 @@
 # BRAINWAVE-Cognitive
 Open-source cognitive assessment tasks for neuroscience, human performance, and cognitive research.
 # BRAINWAVE™ Free Wellbeing Tools
+🧠 We are looking for Beta Testers — BRAINWAVE™ Free Tools
 
+ “Beta Testing + Use-Case Discovery” 
+
+Our team created a small collection of free, short neuroscience-informed wellbeing tools that can be completed in about 2–5 minutes, without login or subscription.
+
+We would like to test them with real users and real situations before developing the concept further.
+
+👉 Try the tools here:
+BRAINWAVE™ Free Tools
+
+https://lnkd.in/g3EPHESV
+
+We are particularly interested in your use case:
+
+* When would you use a tool like this — before work, during stress, before sleep, while studying, etc.?
+* Which tool did you try?
+* Did it feel easy and useful?
+* What would you change or add?
+* Could you see yourself using it regularly?
+* Who else could benefit from something like this?
+
+💡 This is not a diagnostic or medical tool. We currently using this as an early-stage concept and user-experience test.
+
+If you try it, simply comment “TESTED” and share your experience positive, negative or neutral.
+
+Your feedback could help shape the next version of BRAINWAVE™ Free Tools.
+
+🧠🌊 Help us test the idea before we build it further.
+
+#BRAINWAVE #Neuroscience #BrainHealth #CognitiveWellness #NeuroTech #BetaTesting #UserResearch #Wellbeing
 > 5 neuroscience-backed micro-practices — free, no login, no subscription.
 
 Built by Ts. Suba SK Perumal, Neuro-Cognitive Strategist | Malaysia
@@ -9,7 +39,7 @@ Built by Ts. Suba SK Perumal, Neuro-Cognitive Strategist | Malaysia
 ---
 
 ## Live Demo
-
+https://brainwavecognitive.blogspot.com/2026/07/brainwave-cognitive-free-tool.html
 
 ---
 
